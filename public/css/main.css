@@ -79,7 +79,7 @@ a.active {
   background-position: cover;
   background-repeat: no-repeat;
   background-size: 100% auto;
-  border-top: 4px solid #e91e63;
+  border-top: 4px solid #0d7754;
   color: #FFFFFF;
   display: flex;
   flex-direction: column;
@@ -131,7 +131,7 @@ a.active {
  */
 
 .skills {
-  background: #e91e63;
+  background: #0d7754;
   color: white;
 }
 
