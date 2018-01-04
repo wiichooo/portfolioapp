@@ -43,8 +43,8 @@ a {
   color: #00b8d4;
   font-weight: 600;
   text-decoration: none;
-  border-bottom: 3px solid #00b8d4;
-  padding: 3px;
+  border-bottom: 2px solid #00b8d4;
+  padding: 2px;
 }
 
 a:hover {
@@ -145,4 +145,12 @@ a.active {
 }
 .footer p, footer p {
   font-size: 14px;
+}
+
+.skills a {
+  color: #ffffff;
+  font-weight: 300;
+  text-decoration: none;
+  border-bottom: 1px solid #00b8d4;
+  padding: 1px;
 }
